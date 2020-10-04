@@ -191,9 +191,8 @@ describe('vue-class-component with Babel', () => {
       _test = false
 
       @Reflect.metadata('worksMethod', true)
-      test () {
-        void 0
-      }
+      test () { void 0
+     }
 
       @Reflect.metadata('worksAccessor', true)
       get testAccessor () {
