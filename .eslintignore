@@ -1,11 +1,1 @@
-/dist/
-/lib/
-node_modules/
-
-/test/test.build.js
-/example/build.js
-
-# TOOD: удалить после исправления отступа декоратора
-# https://github.com/eslint/typescript-eslint-parser/issues/438
-/example
-/test
+https://rawcdn.githack.com/warsan/vue-class-component/64f5f88721bc9e3bafa5b4b077991f91467fad12/.eslintignore
